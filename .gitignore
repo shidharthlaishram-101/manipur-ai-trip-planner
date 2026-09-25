@@ -1,0 +1,21 @@
+# Virtual environment
+.venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# SQLite database
+database/tourism.db
+
+# VS Code
+.vscode/
+
+# Environment variables
+.env
+
+# Test cache
+.pytest_cache/
+
+# Log files
+*.log

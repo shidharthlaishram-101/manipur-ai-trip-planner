@@ -1,0 +1,31 @@
+id,name,district,category,description,latitude,longitude,distance_from_imphal,estimated_visit_hours,entry_fee,estimated_transport_cost,estimated_food_cost,nature_score,culture_score,adventure_score,wildlife_score,heritage_score,food_score,family_score,best_season
+D001,Kangla Fort,Imphal West,Heritage,Historical palace fort of ancient Manipur kings situated in the heart of Imphal city.,24.808,93.943,0 km,2.5,20,100,200,6,10,3,2,10,6,9,October to March
+D002,Keibul Lamjao National Park,Bishnupur,Wildlife,"World's only floating national park, home to the endangered Sangai brow-antlered deer.",24.5167,93.7917,50 km,3.0,50,800,300,9,5,6,10,4,5,8,October to April
+D003,Ramrei Eco Tourism Park,Ukhrul,Nature,"Scenic eco-tourism spot featuring picturesque dam views, boating, and peaceful hills.",24.9021,94.215,56 km,3.0,30,900,250,9,6,7,6,4,6,9,October to May
+D004,Sana Konung,Imphal East,Heritage,"The Royal Palace of Manipur, serving as the ceremonial residence of the traditional King.",24.801,93.9512,2 km,1.0,0,100,150,4,9,2,1,9,5,8,October to March
+D005,Ema Keithel (Mother's Market),Imphal West,Shopping,"Historic 500-year-old market run entirely by women, selling local goods and handicrafts.",24.8048,93.9368,0.5 km,2.0,0,100,200,3,10,2,1,9,9,8,Year-round
+D006,INA War Memorial,Bishnupur,Heritage,Historical memorial site in Moirang where the INA tricolor flag was first hoisted in 1944.,24.4983,93.7711,48 km,1.5,20,700,250,5,9,3,2,10,5,9,October to March
+D007,Khongjom War Memorial Complex,Thoubal,Heritage,Commemorative monument dedicated to Major Paona Brajabashi and the 1891 Anglo-Manipur War.,24.5694,94.0194,36 km,2.0,20,600,200,7,10,3,2,10,5,9,October to March
+D008,Shirui Hills (Shirui Kashong),Ukhrul,Adventure,Famous mountain peak known for the endemic Shirui Lily flower and scenic trekking.,25.1167,94.45,90 km,5.0,30,1500,350,10,6,10,7,5,5,6,May to June / Oct to Mar
+D009,Marjing Polo Complex,Imphal East,Heritage,"Features the world's tallest polo statue, celebrating Manipur as the birthplace of polo.",24.8431,93.968,10 km,1.5,30,300,200,7,9,5,3,9,5,8,October to March
+D010,Loktak Lake,Bishnupur,Nature,"Largest freshwater lake in Northeast India, famous for floating phumdis and circular huts.",24.55,93.8,48 km,4.0,100,800,400,10,7,7,8,5,7,9,October to April
+D011,Khonghampat Orchidarium,Imphal West,Nature,Sprawling botanical park housing over 110 rare species of native orchids.,24.8912,93.9184,10 km,2.0,20,200,150,9,4,4,6,3,4,8,April to May
+D012,Khangkhui Lime Caves,Ukhrul,Adventure,Prehistoric limestone cave system with fascinating natural stone formations.,25.0211,94.482,90 km,3.0,30,1500,300,8,6,9,5,8,4,6,October to March
+D013,Dzukou Valley,Senapati,Adventure,"Stunning high-altitude valley on the border, known for rolling green hills and trekking.",25.5539,94.0722,82.8 km,8.0,100,1800,500,10,5,10,6,4,5,5,October to May
+D014,Tharon Cave,Tamenglong,Adventure,"Long natural cave carved in limestone, famous for adventure caving and underground passages.",24.981,93.523,190 km,4.0,50,2500,400,9,6,10,6,7,4,5,November to March
+D015,Maibam Lokpa Ching (Red Hill),Bishnupur,Heritage,Historic World War II battlefield site where British and Japanese forces clashed.,24.7121,93.821,16 km,1.5,10,300,200,6,8,3,2,9,4,8,October to March
+D016,Shaheed Minar,Imphal West,Heritage,Memorial tower inside Bir Tikendrajit Park honoring martyrs of the 1891 war.,24.8075,93.9372,0 km,1.0,0,50,150,5,9,1,1,10,5,8,Year-round
+D017,Andro Heritage Village & Mutua Museum,Imphal East,Heritage,"Cultural heritage village famous for traditional pottery, tribal houses, and artifacts.",24.758,94.135,26 km,3.0,30,500,250,8,10,4,4,10,6,9,October to April
+D018,Kakching Garden,Kakching,Nature,"Hilltop garden offering panoramic valley views, shrines, musical fountains, and statues.",24.488,93.981,45 km,2.5,20,700,250,8,7,4,3,6,6,9,October to March
+D019,Ikop Pat,Thoubal,Nature,"Tranquil lake area ideal for wetland birdwatching, fishing, and peaceful boat rides.",24.581,93.972,32 km,2.0,0,500,200,8,5,5,7,3,5,7,October to March
+D020,Loukoipat Eco Park,Bishnupur,Nature,Scenic eco-park surrounding a lotus-covered lake nestled among lush forested hills.,24.631,93.761,38 km,2.0,20,600,200,8,5,4,5,4,5,9,October to April
+D021,Singhat (Singuat),Churachandpur,Nature,"Picturesque hill township known for pleasant weather, green hills, and tribal culture.",24.162,93.591,85 km,4.0,0,1400,300,9,7,7,5,4,5,7,October to April
+D022,Kaina Temple,Imphal East,Heritage,"Sacred Hindu hillock surrounded by jackfruit trees, connected to King Bhagyachandra.",24.741,94.062,29 km,2.0,0,500,200,7,9,3,2,9,5,8,Year-round
+D023,Baruni Hill,Imphal East,Heritage,"Revered pilgrimage hill dedicated to Lord Shiva, popular during Shivaratri festivals.",24.821,94.031,15 km,3.5,0,300,200,8,9,7,4,9,4,7,February to March
+D024,Churachandpur Peace Museum,Churachandpur,Culture,"Cultural hub highlighting southern tribal heritage, local handlooms, and history.",24.333,93.683,60 km,3.0,20,900,300,6,9,4,3,7,7,8,October to March
+D025,Zeilad Lake,Tamenglong,Wildlife,"Famous highland wetland sanctuary rich in aquatic fauna, pythons, and migratory birds.",24.851,93.501,160 km,5.0,30,2200,350,10,6,8,10,5,4,6,October to March
+D026,Bungte Chiru Waterfalls,Kangpokpi,Nature,Cascading forest waterfall surrounded by lush green valley vegetation.,24.781,93.791,25 km,2.5,20,400,200,9,4,7,5,3,5,8,September to January
+D027,Willong Khullen Monoliths,Senapati,Heritage,Ancient megalithic stone alignment site often referred to as the Stonehenge of Manipur.,25.431,94.021,135 km,4.0,20,2000,300,7,10,6,3,10,4,7,October to March
+D028,Yangkhullen Village,Senapati,Culture,"Traditional Zeme Naga village built on a steep cliff face, rich in ancient customs.",25.491,93.951,150 km,4.0,20,2200,300,9,10,8,4,9,4,6,October to April
+D029,Sadu Chiru Waterfalls,Kangpokpi,Nature,Popular three-tiered cascading waterfall framed by scenic mountain terrain.,24.731,93.751,29 km,2.5,30,500,200,9,5,6,4,4,5,9,September to March
+D030,Ukhrul Town & Phangrei,Ukhrul,Nature,"Charming hill station area featuring rolling pine forests, grasslands, and local crafts.",25.111,94.361,84 km,4.0,20,1400,350,9,8,7,5,6,6,8,October to May
