@@ -2,11 +2,17 @@ from fastapi import FastAPI
 from pydantic import BaseModel
 
 from services.trip_planner import TripPlanner
+from database.database import create_database
 
 
 app = FastAPI(
     title="Manipur AI Trip Planner API"
 )
+
+
+@app.on_event("startup")
+def startup_event():
+    create_database()
 
 
 class TripRequest(BaseModel):
